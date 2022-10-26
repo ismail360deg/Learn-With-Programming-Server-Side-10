@@ -22,7 +22,7 @@ app.get('/categories/:id', (req, res) => {
 });
 
 app.listen(port, () => {
-    console.log('Dragon News Server running on port', port);
+    console.log('Learn-With-Programming Server running on port', port);
 })
 
 module.exports = app;

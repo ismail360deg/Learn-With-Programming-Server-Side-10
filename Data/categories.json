@@ -1,0 +1,44 @@
+[
+    {
+        "id": 1,
+        "name": "Html",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
+        "description": "HTML is an acronym which stands for Hyper Text Markup Language which is used for creating web pages and web applications. Let's see what is meant by Hypertext Markup Language, and Web page.",
+        "price": "45"
+    },
+    {
+        "id": 2,
+        "name": "CSS",
+        "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
+        "description": "CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language.",
+        "price": "55"
+    },
+    {
+        "id": 3,
+        "name": "Bootstrap",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png",
+        "description": "Bootstrap is a free, open source front-end development framework for the creation of websites and web apps. Designed to enable responsive development of mobile-first websites, Bootstrap provides a collection of syntax for template designs..",
+        "price": "25"
+    },
+    {
+        "id": 4,
+        "name": "Tailwind",
+        "logo": "https://tailwindcss.com/_next/static/media/social-square.eab77323.jpg",
+        "description": "Tailwind CSS is self-described as a utility first CSS framework. Rather than focusing on the functionality of the item being styled, Tailwind is centered around how it should be displayed. This makes it easier for the developer to test out new styles and change the layout. We ask Jen Looper about Tailwind, and how this approach can help us out!",
+        "price": "85"
+    },
+    {
+        "id": 5,
+        "name": "JavaScript",
+        "logo": "https://1000logos.net/wp-content/uploads/2020/09/JavaScript-Logo.png",
+        "description": "Welcome to the MDN beginner's JavaScript course! In this article we will look at JavaScript from a high level, answering questions such as What is it? and What can you do with it?, and making sure you are comfortable with JavaScript's purpose.",
+        "price": "75"
+    },
+    {
+        "id": 6,
+        "name": "React",
+        "logo": "https://live.staticflickr.com/65535/52413593240_e00326e727_o.png",
+        "description": "React (also known as React.js or ReactJS) is a free and open-source front-end JavaScript library[3] for building user interfaces based on UI components. It is maintained by Meta (formerly Facebook) and a community of individual developers and companies.[4][5][6] React can be used as a base in the development of single-page, mobile, or server-rendered applications with frameworks like Next.js. However, React is only concerned with state management and rendering that state to the DOM, so creating React applications usually requires the use of additional libraries for routing, as well as certain client-side functionality.[7][8]",
+        "price": "50"
+    }
+]

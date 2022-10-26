@@ -4,14 +4,14 @@
         "name": "Html",
         "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/1200px-HTML5_logo_and_wordmark.svg.png",
         "description": "HTML is an acronym which stands for Hyper Text Markup Language which is used for creating web pages and web applications. Let's see what is meant by Hypertext Markup Language, and Web page.",
-        "price": "45"
+        "price": "55"
     },
     {
         "id": 2,
         "name": "CSS",
         "logo": "https://live.staticflickr.com/65535/52413665713_5977a693cb_o.png",
         "description": "CSS (Cascading Style Sheets) allows you to create great-looking web pages, but how does it work under the hood? This article explains what CSS is with a simple syntax example and also covers some key terms about the language.",
-        "price": "55"
+        "price": "65"
     },
     {
         "id": 3,
